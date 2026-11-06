@@ -1,0 +1,292 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "idNumber": "016-0057",
+      "firstName": "Maynard",
+      "lastName": "Aragon",
+      "age": 23,
+      "gender": "Male",
+      "bloodType": "A"
+    },
+    {
+      "id": 2,
+      "idNumber": "019-0191",
+      "firstName": "Karl Louie",
+      "lastName": "Baquiran",
+      "age": "",
+      "gender": "Male",
+      "bloodType": "B"
+    },
+    {
+      "id": 3,
+      "idNumber": "22-10066",
+      "firstName": "Jeffrey",
+      "lastName": "Belandres",
+      "age": 23,
+      "gender": "Male",
+      "bloodType": "A"
+    },
+    {
+      "id": 4,
+      "idNumber": "24-10449",
+      "firstName": "Ranier",
+      "lastName": "Bermudez",
+      "age": 21,
+      "gender": "Male",
+      "bloodType": "B"
+    },
+    {
+      "id": 5,
+      "idNumber": "24-10027",
+      "firstName": "Jaycee",
+      "lastName": "Cabatic",
+      "age": "",
+      "gender": "Male",
+      "bloodType": "A"
+    },
+    {
+      "id": 6,
+      "idNumber": "24-10080",
+      "firstName": "Ryan",
+      "lastName": "Cave",
+      "age": 22,
+      "gender": "Male",
+      "bloodType": "B"
+    },
+    {
+      "id": 7,
+      "idNumber": "018-0135",
+      "firstName": "Marc Ronniel",
+      "lastName": "Cortes",
+      "age": 20,
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 8,
+      "idNumber": "23-0167",
+      "firstName": "Lyn",
+      "lastName": "Dela Cruz",
+      "age": 20,
+      "gender": "Female",
+      "bloodType": ""
+    },
+    {
+      "id": 9,
+      "idNumber": "24-10158",
+      "firstName": "Nicole",
+      "lastName": "Dela Cruz",
+      "age": 19,
+      "gender": "Female",
+      "bloodType": ""
+    },
+    {
+      "id": 10,
+      "idNumber": "22-10009",
+      "firstName": "John Jr.",
+      "lastName": "Dogwe",
+      "age": 19,
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 11,
+      "idNumber": "22-10296",
+      "firstName": "Kurt",
+      "lastName": "Francisco",
+      "age": "",
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 12,
+      "idNumber": "20-10330",
+      "firstName": "Xiameigh",
+      "lastName": "Galera",
+      "age": 22,
+      "gender": "Female",
+      "bloodType": ""
+    }
+  ]
+}
+{
+  "students": [
+    {
+      "id": 13,
+      "idNumber": "23-0537",
+      "firstName": "Francis Robert",
+      "lastName": "Gecobe",
+      "age": 23,
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 14,
+      "idNumber": "24-10020",
+      "firstName": "Princes Norielle",
+      "lastName": "Graganta",
+      "age": 20,
+      "gender": "Female",
+      "bloodType": ""
+    },
+    {
+      "id": 15,
+      "idNumber": "24-10003",
+      "firstName": "Marielle Joy",
+      "lastName": "Gulpani",
+      "age": 20,
+      "gender": "Female",
+      "bloodType": ""
+    },
+    {
+      "id": 16,
+      "idNumber": "24-10071",
+      "firstName": "James",
+      "lastName": "Ilarde",
+      "age": "",
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 17,
+      "idNumber": "22-10186",
+      "firstName": "Trisha Joy",
+      "lastName": "Lumicao",
+      "age": 21,
+      "gender": "Female",
+      "bloodType": ""
+    },
+    {
+      "id": 18,
+      "idNumber": "24-10244",
+      "firstName": "Julie Nieves",
+      "lastName": "Madriaga",
+      "age": 26,
+      "gender": "Female",
+      "bloodType": ""
+    },
+    {
+      "id": 19,
+      "idNumber": "017-0076",
+      "firstName": "Karl Russel",
+      "lastName": "Mariano",
+      "age": 22,
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 20,
+      "idNumber": "018-0189",
+      "firstName": "Sunshine",
+      "lastName": "Nasgatan",
+      "age": 19,
+      "gender": "Female",
+      "bloodType": ""
+    },
+
+    {
+      "id": 22,
+      "idNumber": "24-10108",
+      "firstName": "John Ianpher",
+      "lastName": "Policarpio",
+      "age": "",
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 23,
+      "idNumber": "24-10273",
+      "firstName": "Jeremy",
+      "lastName": "Pontino",
+      "age": "",
+      "gender": "",
+      "bloodType": ""
+    }
+  ]
+}
+{
+  "students": [
+    {
+      "id": 21,
+      "idNumber": "22-18578",
+      "firstName": "Gary Noel",
+      "lastName": "Pascua",
+      "age": "",
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 22,
+      "idNumber": "24-10108",
+      "firstName": "John Iannher",
+      "lastName": "Policarpio",
+      "age": "",
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 23,
+      "idNumber": "24-10273",
+      "firstName": "Jeremy",
+      "lastName": "Pontino",
+      "age": 19,
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 24,
+      "idNumber": "24-10002",
+      "firstName": "Jan Angelo",
+      "lastName": "Ret",
+      "age": 19,
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 25,
+      "idNumber": "20-10815",
+      "firstName": "Normandy",
+      "lastName": "Ringpis",
+      "age": 27,
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 26,
+      "idNumber": "24-10001",
+      "firstName": "Rica Jane",
+      "lastName": "Salazar",
+      "age": 20,
+      "gender": "Female",
+      "bloodType": ""
+    },
+    {
+      "id": 27,
+      "idNumber": "24-10306",
+      "firstName": "Jose",
+      "lastName": "Soriano V",
+      "age": 19,
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 28,
+      "idNumber": "018-0207",
+      "firstName": "Adam Judd",
+      "lastName": "Valdez",
+      "age": 21,
+      "gender": "Male",
+      "bloodType": ""
+    },
+    {
+      "id": 29,
+      "idNumber": "24-10449",
+      "firstName": "Mark Joshua",
+      "lastName": "Yapit",
+      "age": 23,
+      "gender": "Male",
+      "bloodType": ""
+    }
+  ]
+}
